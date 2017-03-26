@@ -1,1 +1,1 @@
-# Introduction to JavaScript exercise codes
+# Intro to JavaScript exercise files
